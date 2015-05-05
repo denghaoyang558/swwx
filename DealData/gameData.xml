@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GameData dataID = "gameData">
+	<GameInfo dataID = "gameInfo">
+		<gameName/>
+		<gameType/>
+		<roleNum/>
+	</GameInfo>
+	<RoleInfo dataID = "roleInfo">
+		<roleName/>
+		<roleResource/>
+		<roleUrl/>
+	</RoleInfo>
+	<MapInfo dataID = "mapInfo">
+		<mapName/>
+		<mapSize/>
+		<mapEditGirdSiz/>
+		<bgUrl/>
+		<bgName/>
+	</MapInfo>
+	<MapData dataID = "mapData">
+		<mapData>
+			<curLevel/>
+			<location>
+				<locationX/>
+				<locationY/>
+			</location>
+			<segmentName/>
+			<segmentUrl/>
+		</mapData>
+		<mapData>
+			<curLevel/>
+			<location>
+				<locationX/>
+				<locationY/>
+			</location>
+			<segmentName/>
+			<segmentUrl/>
+		</mapData>
+	</MapData>
+	<EventData dataID = "eventData">
+		<eventData>
+			<location>
+				<locationX/>
+				<locationY/>
+			</location>
+			<isRoad/>
+			<eventName/>
+			<pre_condition/>
+			<eventContent/>			
+		</eventData>
+		<eventData>
+			<location>
+				<locationX/>
+				<locationY/>
+			</location>
+			<isRoad/>
+			<eventName/>
+			<pre_condition/>
+			<eventContent/>			
+		</eventData>
+	</EventData>
+	<SmallGame dataID = "smallGame">
+		<smallGame>
+			<location>
+				<locationX/>
+				<locationY/>
+			</location>
+			<samllGameName/>
+			<samllGameUrl/>		
+		</smallGame>
+		<smallGame>
+			<location>
+				<locationX/>
+				<locationY/>
+			</location>
+			<samllGameName/>
+			<samllGameUrl/>		
+		</smallGame>
+	</SmallGame>
+</GameData>
