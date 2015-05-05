@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScheduleForm>
+	
+<schedule><menu><name>candian1</name><count>1</count><price>20</price></menu><phoneNumber>12345678990</phoneNumber><address>海韵教学楼</address><time><date>11-30</date><timePoint>11:00</timePoint></time><total>20</total><requirement/><isFinsh>0</isFinsh></schedule></ScheduleForm>
